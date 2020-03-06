@@ -1,5 +1,5 @@
 # quicksort
-Lab for my CS 235 (Data Structures) class to practice using recursion.
+Lab for my CS 235 (Data Structures) class to gain a better understanding of the Quicksort algorithm.
 
 ## Description
 Implementation of Quicksort Algorithm, as developed by Tony Hoare.
